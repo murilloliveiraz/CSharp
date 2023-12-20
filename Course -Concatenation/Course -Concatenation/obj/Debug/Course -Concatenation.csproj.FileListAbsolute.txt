@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Course -Concatenation\Course -Concatenation\bin\Debug\Course -Concatenation.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Course -Concatenation\Course -Concatenation\bin\Debug\Course -Concatenation.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Course -Concatenation\Course -Concatenation\bin\Debug\Course -Concatenation.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Course -Concatenation\Course -Concatenation\obj\Debug\Course -Concatenation.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Course -Concatenation\Course -Concatenation\obj\Debug\Course -Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Course -Concatenation\Course -Concatenation\obj\Debug\Course -Concatenation.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Course -Concatenation\Course -Concatenation\obj\Debug\Course -Concatenation.pdb
