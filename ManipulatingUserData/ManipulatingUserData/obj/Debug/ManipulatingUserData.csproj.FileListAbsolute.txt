@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ManipulatingUserData\ManipulatingUserData\bin\Debug\ManipulatingUserData.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ManipulatingUserData\ManipulatingUserData\bin\Debug\ManipulatingUserData.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ManipulatingUserData\ManipulatingUserData\bin\Debug\ManipulatingUserData.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ManipulatingUserData\ManipulatingUserData\obj\Debug\ManipulatingUserData.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ManipulatingUserData\ManipulatingUserData\obj\Debug\ManipulatingUserData.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ManipulatingUserData\ManipulatingUserData\obj\Debug\ManipulatingUserData.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ManipulatingUserData\ManipulatingUserData\obj\Debug\ManipulatingUserData.pdb

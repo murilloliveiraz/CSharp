@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulatingUserData", "ManipulatingUserData\ManipulatingUserData.csproj", "{1765937E-D8CE-483D-9F59-DD33189243DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1765937E-D8CE-483D-9F59-DD33189243DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1765937E-D8CE-483D-9F59-DD33189243DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1765937E-D8CE-483D-9F59-DD33189243DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1765937E-D8CE-483D-9F59-DD33189243DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9A6A8AC-94B7-445D-A681-88EC04F15F23}
+	EndGlobalSection
+EndGlobal

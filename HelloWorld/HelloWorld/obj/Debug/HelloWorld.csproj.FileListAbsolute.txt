@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
