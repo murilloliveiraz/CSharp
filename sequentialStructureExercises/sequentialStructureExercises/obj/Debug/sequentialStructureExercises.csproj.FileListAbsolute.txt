@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\sequentialStructureExercises\sequentialStructureExercises\bin\Debug\sequentialStructureExercises.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\sequentialStructureExercises\sequentialStructureExercises\bin\Debug\sequentialStructureExercises.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\sequentialStructureExercises\sequentialStructureExercises\bin\Debug\sequentialStructureExercises.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\sequentialStructureExercises\sequentialStructureExercises\obj\Debug\sequentialStructureExercises.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\sequentialStructureExercises\sequentialStructureExercises\obj\Debug\sequentialStructureExercises.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\sequentialStructureExercises\sequentialStructureExercises\obj\Debug\sequentialStructureExercises.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\sequentialStructureExercises\sequentialStructureExercises\obj\Debug\sequentialStructureExercises.pdb

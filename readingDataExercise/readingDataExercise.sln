@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "readingDataExercise", "readingDataExercise\readingDataExercise.csproj", "{C5D074F3-569B-4815-A472-5C28AD863F99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D074F3-569B-4815-A472-5C28AD863F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D074F3-569B-4815-A472-5C28AD863F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D074F3-569B-4815-A472-5C28AD863F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D074F3-569B-4815-A472-5C28AD863F99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {126AA4F3-E8F5-47B6-9592-EF403006A9A6}
+	EndGlobalSection
+EndGlobal
