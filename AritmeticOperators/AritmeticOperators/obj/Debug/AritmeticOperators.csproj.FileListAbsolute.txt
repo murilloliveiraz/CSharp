@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AritmeticOperators\AritmeticOperators\bin\Debug\AritmeticOperators.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AritmeticOperators\AritmeticOperators\bin\Debug\AritmeticOperators.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AritmeticOperators\AritmeticOperators\bin\Debug\AritmeticOperators.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AritmeticOperators\AritmeticOperators\obj\Debug\AritmeticOperators.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AritmeticOperators\AritmeticOperators\obj\Debug\AritmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AritmeticOperators\AritmeticOperators\obj\Debug\AritmeticOperators.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AritmeticOperators\AritmeticOperators\obj\Debug\AritmeticOperators.pdb
