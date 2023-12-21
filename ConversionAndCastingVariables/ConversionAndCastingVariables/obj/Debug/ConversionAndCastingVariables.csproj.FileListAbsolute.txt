@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ConversionAndCastingVariables\ConversionAndCastingVariables\bin\Debug\ConversionAndCastingVariables.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ConversionAndCastingVariables\ConversionAndCastingVariables\bin\Debug\ConversionAndCastingVariables.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ConversionAndCastingVariables\ConversionAndCastingVariables\bin\Debug\ConversionAndCastingVariables.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ConversionAndCastingVariables\ConversionAndCastingVariables\obj\Debug\ConversionAndCastingVariables.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ConversionAndCastingVariables\ConversionAndCastingVariables\obj\Debug\ConversionAndCastingVariables.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ConversionAndCastingVariables\ConversionAndCastingVariables\obj\Debug\ConversionAndCastingVariables.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ConversionAndCastingVariables\ConversionAndCastingVariables\obj\Debug\ConversionAndCastingVariables.pdb
