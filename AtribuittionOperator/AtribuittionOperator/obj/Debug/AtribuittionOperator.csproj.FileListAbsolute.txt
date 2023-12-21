@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AtribuittionOperator\AtribuittionOperator\bin\Debug\AtribuittionOperator.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AtribuittionOperator\AtribuittionOperator\bin\Debug\AtribuittionOperator.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AtribuittionOperator\AtribuittionOperator\bin\Debug\AtribuittionOperator.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AtribuittionOperator\AtribuittionOperator\obj\Debug\AtribuittionOperator.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AtribuittionOperator\AtribuittionOperator\obj\Debug\AtribuittionOperator.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AtribuittionOperator\AtribuittionOperator\obj\Debug\AtribuittionOperator.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AtribuittionOperator\AtribuittionOperator\obj\Debug\AtribuittionOperator.pdb
