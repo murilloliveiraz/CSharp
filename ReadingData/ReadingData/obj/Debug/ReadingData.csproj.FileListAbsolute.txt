@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ReadingData\ReadingData\bin\Debug\ReadingData.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ReadingData\ReadingData\bin\Debug\ReadingData.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ReadingData\ReadingData\bin\Debug\ReadingData.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ReadingData\ReadingData\obj\Debug\ReadingData.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ReadingData\ReadingData\obj\Debug\ReadingData.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ReadingData\ReadingData\obj\Debug\ReadingData.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ReadingData\ReadingData\obj\Debug\ReadingData.pdb
