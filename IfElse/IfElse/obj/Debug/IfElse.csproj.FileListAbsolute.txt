@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\IfElse\IfElse\bin\Debug\IfElse.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\IfElse\IfElse\bin\Debug\IfElse.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\IfElse\IfElse\bin\Debug\IfElse.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\IfElse\IfElse\obj\Debug\IfElse.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\IfElse\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\IfElse\IfElse\obj\Debug\IfElse.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\IfElse\IfElse\obj\Debug\IfElse.pdb
