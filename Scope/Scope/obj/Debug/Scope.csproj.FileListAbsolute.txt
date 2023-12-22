@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Scope\Scope\obj\Debug\Scope.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Scope\Scope\obj\Debug\Scope.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Scope\Scope\bin\Debug\Scope.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Scope\Scope\bin\Debug\Scope.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Scope\Scope\bin\Debug\Scope.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Scope\Scope\obj\Debug\Scope.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Scope\Scope\obj\Debug\Scope.pdb
