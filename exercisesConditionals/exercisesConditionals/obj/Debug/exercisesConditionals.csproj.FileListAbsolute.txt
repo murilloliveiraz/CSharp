@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\exercisesConditionals\exercisesConditionals\bin\Debug\exercisesConditionals.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\exercisesConditionals\exercisesConditionals\bin\Debug\exercisesConditionals.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\exercisesConditionals\exercisesConditionals\bin\Debug\exercisesConditionals.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\exercisesConditionals\exercisesConditionals\obj\Debug\exercisesConditionals.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\exercisesConditionals\exercisesConditionals\obj\Debug\exercisesConditionals.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\exercisesConditionals\exercisesConditionals\obj\Debug\exercisesConditionals.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\exercisesConditionals\exercisesConditionals\obj\Debug\exercisesConditionals.pdb
