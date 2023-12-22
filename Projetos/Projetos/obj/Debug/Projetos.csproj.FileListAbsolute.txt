@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Projetos\Projetos\bin\Debug\Projetos.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Projetos\Projetos\bin\Debug\Projetos.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Projetos\Projetos\bin\Debug\Projetos.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Projetos\Projetos\obj\Debug\Projetos.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Projetos\Projetos\obj\Debug\Projetos.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Projetos\Projetos\obj\Debug\Projetos.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Projetos\Projetos\obj\Debug\Projetos.pdb
