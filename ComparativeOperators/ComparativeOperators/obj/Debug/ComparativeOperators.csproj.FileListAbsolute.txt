@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ComparativeOperators\ComparativeOperators\bin\Debug\ComparativeOperators.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ComparativeOperators\ComparativeOperators\bin\Debug\ComparativeOperators.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ComparativeOperators\ComparativeOperators\bin\Debug\ComparativeOperators.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ComparativeOperators\ComparativeOperators\obj\Debug\ComparativeOperators.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ComparativeOperators\ComparativeOperators\obj\Debug\ComparativeOperators.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ComparativeOperators\ComparativeOperators\obj\Debug\ComparativeOperators.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ComparativeOperators\ComparativeOperators\obj\Debug\ComparativeOperators.pdb
