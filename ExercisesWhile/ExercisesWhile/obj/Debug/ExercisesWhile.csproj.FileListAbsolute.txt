@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesWhile\ExercisesWhile\bin\Debug\ExercisesWhile.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesWhile\ExercisesWhile\bin\Debug\ExercisesWhile.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesWhile\ExercisesWhile\bin\Debug\ExercisesWhile.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesWhile\ExercisesWhile\obj\Debug\ExercisesWhile.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesWhile\ExercisesWhile\obj\Debug\ExercisesWhile.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesWhile\ExercisesWhile\obj\Debug\ExercisesWhile.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesWhile\ExercisesWhile\obj\Debug\ExercisesWhile.pdb
