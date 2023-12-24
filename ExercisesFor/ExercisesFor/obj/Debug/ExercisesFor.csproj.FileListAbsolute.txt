@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesFor\ExercisesFor\bin\Debug\ExercisesFor.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesFor\ExercisesFor\bin\Debug\ExercisesFor.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesFor\ExercisesFor\bin\Debug\ExercisesFor.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesFor\ExercisesFor\obj\Debug\ExercisesFor.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesFor\ExercisesFor\obj\Debug\ExercisesFor.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesFor\ExercisesFor\obj\Debug\ExercisesFor.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ExercisesFor\ExercisesFor\obj\Debug\ExercisesFor.pdb
