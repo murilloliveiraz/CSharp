@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\For\For\bin\Debug\For.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\For\For\bin\Debug\For.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\For\For\bin\Debug\For.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\For\For\obj\Debug\For.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\For\For\obj\Debug\For.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\For\For\obj\Debug\For.pdb
