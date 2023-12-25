@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\triangleAreaNoPOO\triangleAreaNoPOO\bin\Debug\triangleAreaNoPOO.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\triangleAreaNoPOO\triangleAreaNoPOO\bin\Debug\triangleAreaNoPOO.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\triangleAreaNoPOO\triangleAreaNoPOO\bin\Debug\triangleAreaNoPOO.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\triangleAreaNoPOO\triangleAreaNoPOO\obj\Debug\triangleAreaNoPOO.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\triangleAreaNoPOO\triangleAreaNoPOO\obj\Debug\triangleAreaNoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\triangleAreaNoPOO\triangleAreaNoPOO\obj\Debug\triangleAreaNoPOO.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\triangleAreaNoPOO\triangleAreaNoPOO\obj\Debug\triangleAreaNoPOO.pdb

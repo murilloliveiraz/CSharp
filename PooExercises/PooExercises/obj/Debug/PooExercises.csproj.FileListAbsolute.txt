@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\PooExercises\PooExercises\bin\Debug\PooExercises.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\PooExercises\PooExercises\bin\Debug\PooExercises.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\PooExercises\PooExercises\bin\Debug\PooExercises.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\PooExercises\PooExercises\obj\Debug\PooExercises.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\PooExercises\PooExercises\obj\Debug\PooExercises.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\PooExercises\PooExercises\obj\Debug\PooExercises.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\PooExercises\PooExercises\obj\Debug\PooExercises.pdb
