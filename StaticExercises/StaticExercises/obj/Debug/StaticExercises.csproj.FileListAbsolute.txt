@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticExercises\StaticExercises\bin\Debug\StaticExercises.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticExercises\StaticExercises\bin\Debug\StaticExercises.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticExercises\StaticExercises\bin\Debug\StaticExercises.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticExercises\StaticExercises\obj\Debug\StaticExercises.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticExercises\StaticExercises\obj\Debug\StaticExercises.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticExercises\StaticExercises\obj\Debug\StaticExercises.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticExercises\StaticExercises\obj\Debug\StaticExercises.pdb
