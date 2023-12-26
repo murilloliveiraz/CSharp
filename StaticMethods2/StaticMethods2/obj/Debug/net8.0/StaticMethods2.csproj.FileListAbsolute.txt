@@ -1,0 +1,15 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\bin\Debug\net8.0\StaticMethods2.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\bin\Debug\net8.0\StaticMethods2.deps.json
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\bin\Debug\net8.0\StaticMethods2.runtimeconfig.json
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\bin\Debug\net8.0\StaticMethods2.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\bin\Debug\net8.0\StaticMethods2.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\obj\Debug\net8.0\StaticMethods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\obj\Debug\net8.0\StaticMethods2.AssemblyInfoInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\obj\Debug\net8.0\StaticMethods2.AssemblyInfo.cs
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\obj\Debug\net8.0\StaticMethods2.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\obj\Debug\net8.0\StaticMethods2.sourcelink.json
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\obj\Debug\net8.0\StaticMethods2.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\obj\Debug\net8.0\refint\StaticMethods2.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\obj\Debug\net8.0\StaticMethods2.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\obj\Debug\net8.0\StaticMethods2.genruntimeconfig.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods2\StaticMethods2\obj\Debug\net8.0\ref\StaticMethods2.dll

@@ -1,0 +1,15 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\bin\Debug\net8.0\StaticMethods.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\bin\Debug\net8.0\StaticMethods.deps.json
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\bin\Debug\net8.0\StaticMethods.runtimeconfig.json
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\bin\Debug\net8.0\StaticMethods.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\bin\Debug\net8.0\StaticMethods.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\obj\Debug\net8.0\StaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\obj\Debug\net8.0\StaticMethods.AssemblyInfoInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\obj\Debug\net8.0\StaticMethods.AssemblyInfo.cs
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\obj\Debug\net8.0\StaticMethods.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\obj\Debug\net8.0\StaticMethods.sourcelink.json
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\obj\Debug\net8.0\StaticMethods.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\obj\Debug\net8.0\refint\StaticMethods.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\obj\Debug\net8.0\StaticMethods.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\obj\Debug\net8.0\StaticMethods.genruntimeconfig.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StaticMethods\StaticMethods\obj\Debug\net8.0\ref\StaticMethods.dll
