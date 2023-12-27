@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\BancaryAccountExercise\BancaryAccountExercise\bin\Debug\BancaryAccountExercise.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\BancaryAccountExercise\BancaryAccountExercise\bin\Debug\BancaryAccountExercise.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\BancaryAccountExercise\BancaryAccountExercise\bin\Debug\BancaryAccountExercise.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\BancaryAccountExercise\BancaryAccountExercise\obj\Debug\BancaryAccountExercise.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\BancaryAccountExercise\BancaryAccountExercise\obj\Debug\BancaryAccountExercise.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\BancaryAccountExercise\BancaryAccountExercise\obj\Debug\BancaryAccountExercise.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\BancaryAccountExercise\BancaryAccountExercise\obj\Debug\BancaryAccountExercise.pdb
