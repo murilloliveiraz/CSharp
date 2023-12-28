@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Params\Params\bin\Debug\Params.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Params\Params\bin\Debug\Params.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Params\Params\bin\Debug\Params.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Params\Params\obj\Debug\Params.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Params\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Params\Params\obj\Debug\Params.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Params\Params\obj\Debug\Params.pdb

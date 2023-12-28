@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HotelRentVectorExercise\HotelRentVectorExercise\bin\Debug\HotelRentVectorExercise.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HotelRentVectorExercise\HotelRentVectorExercise\bin\Debug\HotelRentVectorExercise.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HotelRentVectorExercise\HotelRentVectorExercise\bin\Debug\HotelRentVectorExercise.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HotelRentVectorExercise\HotelRentVectorExercise\obj\Debug\HotelRentVectorExercise.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HotelRentVectorExercise\HotelRentVectorExercise\obj\Debug\HotelRentVectorExercise.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HotelRentVectorExercise\HotelRentVectorExercise\obj\Debug\HotelRentVectorExercise.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HotelRentVectorExercise\HotelRentVectorExercise\obj\Debug\HotelRentVectorExercise.pdb
