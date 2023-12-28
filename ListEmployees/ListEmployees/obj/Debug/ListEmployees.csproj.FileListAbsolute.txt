@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ListEmployees\ListEmployees\bin\Debug\ListEmployees.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ListEmployees\ListEmployees\bin\Debug\ListEmployees.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ListEmployees\ListEmployees\bin\Debug\ListEmployees.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ListEmployees\ListEmployees\obj\Debug\ListEmployees.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ListEmployees\ListEmployees\obj\Debug\ListEmployees.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ListEmployees\ListEmployees\obj\Debug\ListEmployees.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ListEmployees\ListEmployees\obj\Debug\ListEmployees.pdb
