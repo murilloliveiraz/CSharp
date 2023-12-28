@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Vector2\Vector2\bin\Debug\Vector2.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Vector2\Vector2\bin\Debug\Vector2.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Vector2\Vector2\bin\Debug\Vector2.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Vector2\Vector2\obj\Debug\Vector2.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Vector2\Vector2\obj\Debug\Vector2.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Vector2\Vector2\obj\Debug\Vector2.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Vector2\Vector2\obj\Debug\Vector2.pdb
