@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Nullable\Nullable\bin\Debug\Nullable.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Nullable\Nullable\bin\Debug\Nullable.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Nullable\Nullable\bin\Debug\Nullable.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Nullable\Nullable\obj\Debug\Nullable.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Nullable\Nullable\obj\Debug\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Nullable\Nullable\obj\Debug\Nullable.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Nullable\Nullable\obj\Debug\Nullable.pdb
