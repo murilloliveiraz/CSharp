@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\RefAndOut\RefAndOut\bin\Debug\RefAndOut.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\RefAndOut\RefAndOut\bin\Debug\RefAndOut.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\RefAndOut\RefAndOut\bin\Debug\RefAndOut.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\RefAndOut\RefAndOut\obj\Debug\RefAndOut.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\RefAndOut\RefAndOut\obj\Debug\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\RefAndOut\RefAndOut\obj\Debug\RefAndOut.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\RefAndOut\RefAndOut\obj\Debug\RefAndOut.pdb
