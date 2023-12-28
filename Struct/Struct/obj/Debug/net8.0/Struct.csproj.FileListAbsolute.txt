@@ -1,0 +1,15 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\bin\Debug\net8.0\Struct.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\bin\Debug\net8.0\Struct.deps.json
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\bin\Debug\net8.0\Struct.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\bin\Debug\net8.0\Struct.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\obj\Debug\net8.0\Struct.sourcelink.json
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\obj\Debug\net8.0\Struct.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\obj\Debug\net8.0\refint\Struct.dll
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\obj\Debug\net8.0\Struct.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Struct\Struct\obj\Debug\net8.0\ref\Struct.dll
