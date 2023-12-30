@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ternaryCondition\ternaryCondition\bin\Debug\ternaryCondition.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ternaryCondition\ternaryCondition\bin\Debug\ternaryCondition.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ternaryCondition\ternaryCondition\bin\Debug\ternaryCondition.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ternaryCondition\ternaryCondition\obj\Debug\ternaryCondition.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ternaryCondition\ternaryCondition\obj\Debug\ternaryCondition.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ternaryCondition\ternaryCondition\obj\Debug\ternaryCondition.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\ternaryCondition\ternaryCondition\obj\Debug\ternaryCondition.pdb
