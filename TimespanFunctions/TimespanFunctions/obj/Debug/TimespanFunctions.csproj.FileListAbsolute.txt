@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimespanFunctions\TimespanFunctions\bin\Debug\TimespanFunctions.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimespanFunctions\TimespanFunctions\bin\Debug\TimespanFunctions.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimespanFunctions\TimespanFunctions\bin\Debug\TimespanFunctions.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimespanFunctions\TimespanFunctions\obj\Debug\TimespanFunctions.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimespanFunctions\TimespanFunctions\obj\Debug\TimespanFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimespanFunctions\TimespanFunctions\obj\Debug\TimespanFunctions.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimespanFunctions\TimespanFunctions\obj\Debug\TimespanFunctions.pdb
