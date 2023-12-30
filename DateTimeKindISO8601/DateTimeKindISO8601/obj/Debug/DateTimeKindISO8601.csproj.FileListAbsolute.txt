@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeKindISO8601\DateTimeKindISO8601\bin\Debug\DateTimeKindISO8601.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeKindISO8601\DateTimeKindISO8601\bin\Debug\DateTimeKindISO8601.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeKindISO8601\DateTimeKindISO8601\bin\Debug\DateTimeKindISO8601.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\DateTimeKindISO8601.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\DateTimeKindISO8601.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\DateTimeKindISO8601.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeKindISO8601\DateTimeKindISO8601\obj\Debug\DateTimeKindISO8601.pdb
