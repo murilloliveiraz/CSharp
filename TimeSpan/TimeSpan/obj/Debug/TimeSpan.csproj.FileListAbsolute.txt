@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimeSpan\TimeSpan\bin\Debug\TimeSpan.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimeSpan\TimeSpan\obj\Debug\TimeSpan.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimeSpan\TimeSpan\obj\Debug\TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimeSpan\TimeSpan\obj\Debug\TimeSpan.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\TimeSpan\TimeSpan\obj\Debug\TimeSpan.pdb
