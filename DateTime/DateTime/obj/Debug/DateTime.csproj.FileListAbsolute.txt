@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTime\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTime\DateTime\obj\Debug\DateTime.pdb
