@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Switchcase\Switchcase\bin\Debug\Switchcase.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Switchcase\Switchcase\bin\Debug\Switchcase.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Switchcase\Switchcase\bin\Debug\Switchcase.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Switchcase\Switchcase\obj\Debug\Switchcase.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Switchcase\Switchcase\obj\Debug\Switchcase.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Switchcase\Switchcase\obj\Debug\Switchcase.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Switchcase\Switchcase\obj\Debug\Switchcase.pdb
