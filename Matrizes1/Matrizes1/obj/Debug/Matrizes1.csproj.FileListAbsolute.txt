@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Matrizes1\Matrizes1\bin\Debug\Matrizes1.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Matrizes1\Matrizes1\bin\Debug\Matrizes1.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Matrizes1\Matrizes1\bin\Debug\Matrizes1.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Matrizes1\Matrizes1\obj\Debug\Matrizes1.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Matrizes1\Matrizes1\obj\Debug\Matrizes1.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Matrizes1\Matrizes1\obj\Debug\Matrizes1.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\Matrizes1\Matrizes1\obj\Debug\Matrizes1.pdb

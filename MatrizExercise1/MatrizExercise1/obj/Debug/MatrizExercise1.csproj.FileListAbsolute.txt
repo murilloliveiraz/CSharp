@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MatrizExercise1\MatrizExercise1\bin\Debug\MatrizExercise1.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MatrizExercise1\MatrizExercise1\bin\Debug\MatrizExercise1.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MatrizExercise1\MatrizExercise1\bin\Debug\MatrizExercise1.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MatrizExercise1\MatrizExercise1\obj\Debug\MatrizExercise1.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MatrizExercise1\MatrizExercise1\obj\Debug\MatrizExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MatrizExercise1\MatrizExercise1\obj\Debug\MatrizExercise1.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MatrizExercise1\MatrizExercise1\obj\Debug\MatrizExercise1.pdb
