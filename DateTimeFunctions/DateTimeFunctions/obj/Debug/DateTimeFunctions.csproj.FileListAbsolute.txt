@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeFunctions\DateTimeFunctions\bin\Debug\DateTimeFunctions.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeFunctions\DateTimeFunctions\bin\Debug\DateTimeFunctions.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeFunctions\DateTimeFunctions\bin\Debug\DateTimeFunctions.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeFunctions\DateTimeFunctions\obj\Debug\DateTimeFunctions.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeFunctions\DateTimeFunctions\obj\Debug\DateTimeFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeFunctions\DateTimeFunctions\obj\Debug\DateTimeFunctions.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\DateTimeFunctions\DateTimeFunctions\obj\Debug\DateTimeFunctions.pdb
