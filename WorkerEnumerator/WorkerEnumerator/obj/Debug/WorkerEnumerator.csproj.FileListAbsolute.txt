@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\WorkerEnumerator\WorkerEnumerator\bin\Debug\WorkerEnumerator.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\WorkerEnumerator\WorkerEnumerator\bin\Debug\WorkerEnumerator.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\WorkerEnumerator\WorkerEnumerator\bin\Debug\WorkerEnumerator.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\WorkerEnumerator\WorkerEnumerator\obj\Debug\WorkerEnumerator.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\WorkerEnumerator\WorkerEnumerator\obj\Debug\WorkerEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\WorkerEnumerator\WorkerEnumerator\obj\Debug\WorkerEnumerator.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\WorkerEnumerator\WorkerEnumerator\obj\Debug\WorkerEnumerator.pdb
