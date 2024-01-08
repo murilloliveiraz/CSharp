@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\PostsEnum\PostsEnum\bin\Debug\PostsEnum.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\PostsEnum\PostsEnum\bin\Debug\PostsEnum.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\PostsEnum\PostsEnum\bin\Debug\PostsEnum.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\PostsEnum\PostsEnum\obj\Debug\PostsEnum.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\PostsEnum\PostsEnum\obj\Debug\PostsEnum.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\PostsEnum\PostsEnum\obj\Debug\PostsEnum.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\PostsEnum\PostsEnum\obj\Debug\PostsEnum.pdb
