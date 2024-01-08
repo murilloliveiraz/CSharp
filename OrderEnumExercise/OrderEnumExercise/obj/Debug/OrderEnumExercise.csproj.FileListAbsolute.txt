@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\OrderEnumExercise\OrderEnumExercise\bin\Debug\OrderEnumExercise.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\OrderEnumExercise\OrderEnumExercise\bin\Debug\OrderEnumExercise.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\OrderEnumExercise\OrderEnumExercise\bin\Debug\OrderEnumExercise.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\OrderEnumExercise\OrderEnumExercise\obj\Debug\OrderEnumExercise.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\OrderEnumExercise\OrderEnumExercise\obj\Debug\OrderEnumExercise.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\OrderEnumExercise\OrderEnumExercise\obj\Debug\OrderEnumExercise.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\OrderEnumExercise\OrderEnumExercise\obj\Debug\OrderEnumExercise.pdb
