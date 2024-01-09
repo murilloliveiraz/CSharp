@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePolimorfism", "EmployeePolimorfism\EmployeePolimorfism.csproj", "{1304DF03-C967-4780-8BFF-8B0276026AE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1304DF03-C967-4780-8BFF-8B0276026AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1304DF03-C967-4780-8BFF-8B0276026AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1304DF03-C967-4780-8BFF-8B0276026AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1304DF03-C967-4780-8BFF-8B0276026AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19779789-6D57-47FE-A892-E37D202655E2}
+	EndGlobalSection
+EndGlobal
