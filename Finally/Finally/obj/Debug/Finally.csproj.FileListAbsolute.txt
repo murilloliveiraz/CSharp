@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Finally\Finally\bin\Debug\Finally.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Finally\Finally\bin\Debug\Finally.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Finally\Finally\bin\Debug\Finally.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Finally\Finally\obj\Debug\Finally.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Finally\Finally\obj\Debug\Finally.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Finally\Finally\obj\Debug\Finally.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Finally\Finally\obj\Debug\Finally.pdb
