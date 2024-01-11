@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
