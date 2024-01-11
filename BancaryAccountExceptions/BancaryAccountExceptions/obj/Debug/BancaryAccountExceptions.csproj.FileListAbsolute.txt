@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\BancaryAccountExceptions\BancaryAccountExceptions\obj\Debug\BancaryAccountExceptions.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\BancaryAccountExceptions\BancaryAccountExceptions\obj\Debug\BancaryAccountExceptions.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\BancaryAccountExceptions\BancaryAccountExceptions\bin\Debug\BancaryAccountExceptions.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\BancaryAccountExceptions\BancaryAccountExceptions\bin\Debug\BancaryAccountExceptions.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\BancaryAccountExceptions\BancaryAccountExceptions\bin\Debug\BancaryAccountExceptions.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\BancaryAccountExceptions\BancaryAccountExceptions\obj\Debug\BancaryAccountExceptions.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\BancaryAccountExceptions\BancaryAccountExceptions\obj\Debug\BancaryAccountExceptions.pdb
