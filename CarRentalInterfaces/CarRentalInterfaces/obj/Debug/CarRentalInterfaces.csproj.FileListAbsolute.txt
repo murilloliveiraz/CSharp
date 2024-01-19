@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\CarRentalInterfaces\CarRentalInterfaces\bin\Debug\CarRentalInterfaces.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\CarRentalInterfaces\CarRentalInterfaces\bin\Debug\CarRentalInterfaces.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\CarRentalInterfaces\CarRentalInterfaces\bin\Debug\CarRentalInterfaces.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\CarRentalInterfaces\CarRentalInterfaces\obj\Debug\CarRentalInterfaces.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\CarRentalInterfaces\CarRentalInterfaces\obj\Debug\CarRentalInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\CarRentalInterfaces\CarRentalInterfaces\obj\Debug\CarRentalInterfaces.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\CarRentalInterfaces\CarRentalInterfaces\obj\Debug\CarRentalInterfaces.pdb
