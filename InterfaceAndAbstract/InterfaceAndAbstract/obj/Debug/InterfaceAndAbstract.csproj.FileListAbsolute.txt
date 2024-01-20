@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\InterfaceAndAbstract\InterfaceAndAbstract\bin\Debug\InterfaceAndAbstract.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\InterfaceAndAbstract\InterfaceAndAbstract\bin\Debug\InterfaceAndAbstract.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\InterfaceAndAbstract\InterfaceAndAbstract\bin\Debug\InterfaceAndAbstract.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\InterfaceAndAbstract\InterfaceAndAbstract\obj\Debug\InterfaceAndAbstract.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\InterfaceAndAbstract\InterfaceAndAbstract\obj\Debug\InterfaceAndAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\InterfaceAndAbstract\InterfaceAndAbstract\obj\Debug\InterfaceAndAbstract.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\InterfaceAndAbstract\InterfaceAndAbstract\obj\Debug\InterfaceAndAbstract.pdb

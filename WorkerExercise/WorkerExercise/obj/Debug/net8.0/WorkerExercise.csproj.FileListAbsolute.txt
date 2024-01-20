@@ -1,0 +1,15 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\obj\Debug\net8.0\WorkerExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\obj\Debug\net8.0\WorkerExercise.AssemblyInfoInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\obj\Debug\net8.0\WorkerExercise.AssemblyInfo.cs
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\obj\Debug\net8.0\WorkerExercise.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\obj\Debug\net8.0\WorkerExercise.sourcelink.json
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\bin\Debug\net8.0\WorkerExercise.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\bin\Debug\net8.0\WorkerExercise.deps.json
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\bin\Debug\net8.0\WorkerExercise.runtimeconfig.json
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\bin\Debug\net8.0\WorkerExercise.dll
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\bin\Debug\net8.0\WorkerExercise.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\obj\Debug\net8.0\WorkerExercise.dll
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\obj\Debug\net8.0\refint\WorkerExercise.dll
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\obj\Debug\net8.0\WorkerExercise.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\obj\Debug\net8.0\WorkerExercise.genruntimeconfig.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\WorkerExercise\WorkerExercise\obj\Debug\net8.0\ref\WorkerExercise.dll
