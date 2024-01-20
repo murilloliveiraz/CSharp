@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TryCatch\TryCatch\obj\Debug\TryCatch.pdb

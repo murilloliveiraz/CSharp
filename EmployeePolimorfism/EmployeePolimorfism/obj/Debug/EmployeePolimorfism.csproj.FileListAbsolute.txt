@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EmployeePolimorfism\EmployeePolimorfism\obj\Debug\EmployeePolimorfism.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EmployeePolimorfism\EmployeePolimorfism\obj\Debug\EmployeePolimorfism.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EmployeePolimorfism\EmployeePolimorfism\bin\Debug\EmployeePolimorfism.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EmployeePolimorfism\EmployeePolimorfism\bin\Debug\EmployeePolimorfism.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EmployeePolimorfism\EmployeePolimorfism\bin\Debug\EmployeePolimorfism.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EmployeePolimorfism\EmployeePolimorfism\obj\Debug\EmployeePolimorfism.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EmployeePolimorfism\EmployeePolimorfism\obj\Debug\EmployeePolimorfism.pdb

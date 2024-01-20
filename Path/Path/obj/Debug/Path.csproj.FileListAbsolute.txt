@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Path\Path\bin\Debug\Path.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Path\Path\bin\Debug\Path.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Path\Path\bin\Debug\Path.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Path\Path\obj\Debug\Path.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Path\Path\obj\Debug\Path.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Path\Path\obj\Debug\Path.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Path\Path\obj\Debug\Path.pdb

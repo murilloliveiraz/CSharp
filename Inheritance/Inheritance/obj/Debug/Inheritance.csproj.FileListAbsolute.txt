@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

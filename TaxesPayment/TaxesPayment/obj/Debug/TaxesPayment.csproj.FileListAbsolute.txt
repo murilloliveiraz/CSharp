@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TaxesPayment\TaxesPayment\bin\Debug\TaxesPayment.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TaxesPayment\TaxesPayment\bin\Debug\TaxesPayment.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TaxesPayment\TaxesPayment\bin\Debug\TaxesPayment.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TaxesPayment\TaxesPayment\obj\Debug\TaxesPayment.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TaxesPayment\TaxesPayment\obj\Debug\TaxesPayment.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TaxesPayment\TaxesPayment\obj\Debug\TaxesPayment.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\TaxesPayment\TaxesPayment\obj\Debug\TaxesPayment.pdb

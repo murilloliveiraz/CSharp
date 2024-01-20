@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ShapeAbstract\ShapeAbstract\bin\Debug\ShapeAbstract.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ShapeAbstract\ShapeAbstract\bin\Debug\ShapeAbstract.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ShapeAbstract\ShapeAbstract\bin\Debug\ShapeAbstract.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ShapeAbstract\ShapeAbstract\obj\Debug\ShapeAbstract.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ShapeAbstract\ShapeAbstract\obj\Debug\ShapeAbstract.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ShapeAbstract\ShapeAbstract\obj\Debug\ShapeAbstract.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ShapeAbstract\ShapeAbstract\obj\Debug\ShapeAbstract.pdb

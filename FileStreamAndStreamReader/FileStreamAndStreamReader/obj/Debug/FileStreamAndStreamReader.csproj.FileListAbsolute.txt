@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\FileStreamAndStreamReader.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\FileStreamAndStreamReader.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\FileStreamAndStreamReader.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\FileStreamAndStreamReader.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\FileStreamAndStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\FileStreamAndStreamReader.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\FileStreamAndStreamReader.pdb

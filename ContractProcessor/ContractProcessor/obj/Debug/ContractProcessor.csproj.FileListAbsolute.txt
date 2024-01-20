@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ContractProcessor\ContractProcessor\bin\Debug\ContractProcessor.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ContractProcessor\ContractProcessor\bin\Debug\ContractProcessor.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ContractProcessor\ContractProcessor\bin\Debug\ContractProcessor.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ContractProcessor\ContractProcessor\obj\Debug\ContractProcessor.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ContractProcessor\ContractProcessor\obj\Debug\ContractProcessor.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ContractProcessor\ContractProcessor\obj\Debug\ContractProcessor.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\ContractProcessor\ContractProcessor\obj\Debug\ContractProcessor.pdb

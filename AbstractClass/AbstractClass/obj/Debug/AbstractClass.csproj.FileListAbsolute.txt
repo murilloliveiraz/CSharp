@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb

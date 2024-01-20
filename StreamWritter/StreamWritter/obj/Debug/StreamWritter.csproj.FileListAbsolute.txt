@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StreamWritter\StreamWritter\bin\Debug\StreamWritter.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StreamWritter\StreamWritter\bin\Debug\StreamWritter.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StreamWritter\StreamWritter\bin\Debug\StreamWritter.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StreamWritter\StreamWritter\obj\Debug\StreamWritter.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StreamWritter\StreamWritter\obj\Debug\StreamWritter.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StreamWritter\StreamWritter\obj\Debug\StreamWritter.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\StreamWritter\StreamWritter\obj\Debug\StreamWritter.pdb
