@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.pdb
