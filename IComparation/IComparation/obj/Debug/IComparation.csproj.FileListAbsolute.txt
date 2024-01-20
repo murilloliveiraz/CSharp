@@ -1,0 +1,7 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\IComparation\IComparation\bin\Debug\IComparation.exe.config
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\IComparation\IComparation\bin\Debug\IComparation.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\IComparation\IComparation\bin\Debug\IComparation.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\IComparation\IComparation\obj\Debug\IComparation.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\IComparation\IComparation\obj\Debug\IComparation.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\IComparation\IComparation\obj\Debug\IComparation.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\CSharp\IComparation\IComparation\obj\Debug\IComparation.pdb
