@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\setExercise\setExercise\bin\Debug\setExercise.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\setExercise\setExercise\bin\Debug\setExercise.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\setExercise\setExercise\bin\Debug\setExercise.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\setExercise\setExercise\obj\Debug\setExercise.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\setExercise\setExercise\obj\Debug\setExercise.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\setExercise\setExercise\obj\Debug\setExercise.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\setExercise\setExercise\obj\Debug\setExercise.pdb
