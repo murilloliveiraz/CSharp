@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EqualsAndHashCode\EqualsAndHashCode\bin\Debug\EqualsAndHashCode.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EqualsAndHashCode\EqualsAndHashCode\bin\Debug\EqualsAndHashCode.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EqualsAndHashCode\EqualsAndHashCode\bin\Debug\EqualsAndHashCode.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EqualsAndHashCode\EqualsAndHashCode\obj\Debug\EqualsAndHashCode.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EqualsAndHashCode\EqualsAndHashCode\obj\Debug\EqualsAndHashCode.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EqualsAndHashCode\EqualsAndHashCode\obj\Debug\EqualsAndHashCode.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\EqualsAndHashCode\EqualsAndHashCode\obj\Debug\EqualsAndHashCode.pdb
