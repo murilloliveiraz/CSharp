@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashAndSorted\HashAndSorted\bin\Debug\HashAndSorted.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashAndSorted\HashAndSorted\bin\Debug\HashAndSorted.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashAndSorted\HashAndSorted\bin\Debug\HashAndSorted.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashAndSorted\HashAndSorted\obj\Debug\HashAndSorted.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashAndSorted\HashAndSorted\obj\Debug\HashAndSorted.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashAndSorted\HashAndSorted\obj\Debug\HashAndSorted.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashAndSorted\HashAndSorted\obj\Debug\HashAndSorted.pdb
