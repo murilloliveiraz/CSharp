@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashExercise\HashExercise\bin\Debug\HashExercise.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashExercise\HashExercise\bin\Debug\HashExercise.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashExercise\HashExercise\bin\Debug\HashExercise.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashExercise\HashExercise\obj\Debug\HashExercise.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashExercise\HashExercise\obj\Debug\HashExercise.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashExercise\HashExercise\obj\Debug\HashExercise.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashExercise\HashExercise\obj\Debug\HashExercise.pdb
