@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\DictionaryExercise\DictionaryExercise\bin\Debug\DictionaryExercise.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\DictionaryExercise\DictionaryExercise\bin\Debug\DictionaryExercise.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\DictionaryExercise\DictionaryExercise\bin\Debug\DictionaryExercise.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\DictionaryExercise\DictionaryExercise\obj\Debug\DictionaryExercise.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\DictionaryExercise\DictionaryExercise\obj\Debug\DictionaryExercise.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\DictionaryExercise\DictionaryExercise\obj\Debug\DictionaryExercise.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\DictionaryExercise\DictionaryExercise\obj\Debug\DictionaryExercise.pdb
