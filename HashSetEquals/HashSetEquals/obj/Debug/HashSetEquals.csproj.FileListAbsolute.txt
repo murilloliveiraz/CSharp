@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashSetEquals\HashSetEquals\bin\Debug\HashSetEquals.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashSetEquals\HashSetEquals\bin\Debug\HashSetEquals.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashSetEquals\HashSetEquals\bin\Debug\HashSetEquals.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashSetEquals\HashSetEquals\obj\Debug\HashSetEquals.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashSetEquals\HashSetEquals\obj\Debug\HashSetEquals.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashSetEquals\HashSetEquals\obj\Debug\HashSetEquals.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\HashSetEquals\HashSetEquals\obj\Debug\HashSetEquals.pdb
