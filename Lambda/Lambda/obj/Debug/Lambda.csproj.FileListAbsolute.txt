@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Lambda\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Lambda\Lambda\bin\Debug\Lambda.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Lambda\Lambda\bin\Debug\Lambda.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Lambda\Lambda\obj\Debug\Lambda.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Lambda\Lambda\obj\Debug\Lambda.pdb
