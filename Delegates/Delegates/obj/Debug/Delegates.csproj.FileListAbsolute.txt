@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Delegates\Delegates\obj\Debug\Delegates.pdb
