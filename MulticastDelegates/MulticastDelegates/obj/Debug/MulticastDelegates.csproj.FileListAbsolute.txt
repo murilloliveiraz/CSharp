@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\MulticastDelegates\MulticastDelegates\bin\Debug\MulticastDelegates.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\MulticastDelegates\MulticastDelegates\bin\Debug\MulticastDelegates.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\MulticastDelegates\MulticastDelegates\bin\Debug\MulticastDelegates.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\MulticastDelegates\MulticastDelegates\obj\Debug\MulticastDelegates.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\MulticastDelegates\MulticastDelegates\obj\Debug\MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\MulticastDelegates\MulticastDelegates\obj\Debug\MulticastDelegates.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\MulticastDelegates\MulticastDelegates\obj\Debug\MulticastDelegates.pdb
