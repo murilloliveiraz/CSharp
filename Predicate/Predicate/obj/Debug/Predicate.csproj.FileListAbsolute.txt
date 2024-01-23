@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Predicate\Predicate\bin\Debug\Predicate.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Predicate\Predicate\bin\Debug\Predicate.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Predicate\Predicate\bin\Debug\Predicate.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Predicate\Predicate\obj\Debug\Predicate.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Predicate\Predicate\obj\Debug\Predicate.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Predicate\Predicate\obj\Debug\Predicate.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Predicate\Predicate\obj\Debug\Predicate.pdb
