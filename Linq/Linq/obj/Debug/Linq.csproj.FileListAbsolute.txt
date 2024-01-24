@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\Linq\Linq\obj\Debug\Linq.pdb

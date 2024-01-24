@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FuncWithSelect\FuncWithSelect\bin\Debug\FuncWithSelect.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FuncWithSelect\FuncWithSelect\bin\Debug\FuncWithSelect.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FuncWithSelect\FuncWithSelect\bin\Debug\FuncWithSelect.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FuncWithSelect\FuncWithSelect\obj\Debug\FuncWithSelect.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FuncWithSelect\FuncWithSelect\obj\Debug\FuncWithSelect.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FuncWithSelect\FuncWithSelect\obj\Debug\FuncWithSelect.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\FuncWithSelect\FuncWithSelect\obj\Debug\FuncWithSelect.pdb
