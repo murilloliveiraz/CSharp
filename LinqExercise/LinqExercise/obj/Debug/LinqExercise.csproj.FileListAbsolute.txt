@@ -1,0 +1,7 @@
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\LinqExercise\LinqExercise\bin\Debug\LinqExercise.exe.config
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\LinqExercise\LinqExercise\bin\Debug\LinqExercise.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\LinqExercise\LinqExercise\bin\Debug\LinqExercise.pdb
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\LinqExercise\LinqExercise\obj\Debug\LinqExercise.csproj.AssemblyReference.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\LinqExercise\LinqExercise\obj\Debug\LinqExercise.csproj.CoreCompileInputs.cache
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\LinqExercise\LinqExercise\obj\Debug\LinqExercise.exe
+C:\Users\david.soares\OneDrive - Cobreflex\Documentos\estudos\C#\LinqExercise\LinqExercise\obj\Debug\LinqExercise.pdb
